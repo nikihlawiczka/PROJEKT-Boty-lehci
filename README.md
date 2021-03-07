@@ -1,6 +1,6 @@
 # Bonusový úkol: Boty
 
-Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevzdává a nehodnotí. Vypracuj si ho pro sebe jako trénink kódování CSS. Toto je **těžší** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
+Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevzdává a nehodnotí. Vypracuj si ho pro sebe jako trénink kódování CSS. Toto je **lehčí** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Obtížnosti](#Obtížnosti)
@@ -36,19 +36,20 @@ Ve složce projektu je obrázek *zadani-ukolu.jpg*, kde jsou uvedeny požadovan�
 
 ## Obtížnosti
 
-Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. **Tento repozitář obsahuje výchozí standardní úroveň obtížnosti.** Pokud máš méně času nebo s úkolem bojuješ, můžeš zkusit lehčí variantu úkolu.
+Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento repozitář obsahuje **lehčí úroveň obtížnosti**. Doporučuji nejprve zkusit standardní obtížnost.
 
-### Výchozí obtížnost
+### Lehčí obtížnost
+- obsažená v tomto repozitáři
+- grafické zadání je stejné, ale v HTML je kompletně připravený obsah včetně struktury, obalových prvků a přidaných CSS tříd
+- v této obtížnosti nemusíš HTML vůbec upravovat - stačí si ho prostudovat, abys věděla jaké prvky/třídy máš stylovat a "jenom" k nim napsat CSS
+
+### Standardní obtížnost
+- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/PROJEKT-Boty)
 - v HTML najdeš pouze obsahové elementy (nadpisy, odstavce, obrázky)
 - sama si do HTML musíš dopsat další strukturu, která je nutná, abys mohla HTML nastylovat podle grafického zadání
 - musíš vymyslet, do jakých prvků obsah zabalíš a jaké třídy jim přidáš
 
-### Lehčí obtížnost
-- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/PROJEKT-Boty-lehci)
-- grafické zadání je stejné, ale v HTML je kompletně připravený obsah včetně struktury, obalových prvků a přidaných CSS tříd
-- v této obtížnosti nemusíš HTML vůbec upravovat - stačí si ho prostudovat, abys věděla jaké prvky/třídy máš stylovat a "jenom" k nim napsat CSS
-
-Je úplně v pořádku, pokud si nakonec zvolíš jednodušší variantu (např. kvůli nedostatku času), ale doporučuji, abys nejprve zkusila tu výchozí obtížnost, kde si musíš sama vytvořit i HTML strukturu. Není to zase o tolik těžší a v reálném životě ti také nikdo HTML připravovat nebude. Jako kóderka dostaneš grafický návrh a ten budeš muset převést do HTML a CSS. Budeš-li si u bonusových úkolů volit jednodušší obtížnosti, nakonec zjistíš, že sice umíš CSS, ale dělá ti problém vymyslet a napsat si vlastní HTML.
+Je úplně v pořádku, pokud si nakonec zvolíš jednodušší variantu (např. kvůli nedostatku času), ale doporučuji, abys nejprve zkusila standardní obtížnost, kde si musíš sama vytvořit i HTML strukturu. Není to zase o tolik těžší a v reálném životě ti také nikdo HTML připravovat nebude. Jako kóderka dostaneš grafický návrh a ten budeš muset převést do HTML a CSS. Budeš-li si u bonusových úkolů volit jednodušší obtížnosti, nakonec zjistíš, že sice umíš CSS, ale dělá ti problém vymyslet a napsat si vlastní HTML.
 
 
 ## Jak si stáhnout podklady
