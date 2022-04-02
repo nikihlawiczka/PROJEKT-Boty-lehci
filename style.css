@@ -27,15 +27,18 @@ body {
     font-family: 'Rubik', sans-serif;
     background-color:  #f5f5f5;
     font-size: 14px;
+    font-weight: 400;
 }
 
 .zbozi {
-    position: relative;
     display: flex;
+    position: relative;
+    margin: 0 auto;
     height: 440px;
     width: 670px;
-    margin: 0 auto;
 }
+
+
 
 /* levá strana */
 
@@ -47,34 +50,35 @@ body {
     background-image: linear-gradient(#06d7c1, #50cc49);
 }
 
-
-.slogan {
-    margin-top: 30px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-}
-
 .bota {
     position:absolute; 
     bottom: 5px;
     left: -70px;
 }
 
-.cenovka {
+.slogan {
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
     color: white;
-    text-align: right;
-    position: absolute;
+}
+
+.cenovka {
+    position: absolute; 
     bottom: 30px;
     right: 365px;
+    text-align: right;
+    color: white;
 }
+
 .cena {
     font-size: 28px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .zaruka {
     font-size: 12px;
+    font-weight: 400;
 }
 
 
@@ -90,23 +94,23 @@ body {
 
 .nazev {
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .produkt {
-    color: gray;
     margin-bottom: 30px;
+    color: gray;
 }
 
 .popis {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 30px;
 }
 
-hr {
+/* hr {
     height: 2px;
     color: #06d7c1;
-}
+} */
 
 .parametr {
     margin-top: 30px;
@@ -120,21 +124,25 @@ hr {
     text-align: left;
 }
 
-ul {
-    
-    justify-content: space-between
-    ;
+li {
+    padding: 5px;
+    margin: 0 20px 0 0;
 }
 
+.vybrana {
+    border: 1px solid red;
+    border-radius: 50%;
+}
 
 .tlacitko {
-   padding: 15px 20px; 
-   background-color: #f15f42;
-   color: white;
-   text-align: center;
+   padding: 15px 20px;
+   position: absolute;
+   bottom: 30px;
    border-radius: 5px;
    text-decoration: none;
    text-transform: uppercase;
-   position: absolute;
-   bottom: 30px;
+   text-align: center;
+   color: white;
+   background-color: #f15f42;
 }
+   
